@@ -1,5 +1,7 @@
 # Frosthold
 
+Play it: https://hunterbastian.github.io/frost/
+
 A little open-world RPG for your phone — inspired by the "wander a frozen
 province, fight wolves and draugr, shout like a dragonborn" fantasy of games
 like *Skyrim*, shrunk down to something you can play in a mobile browser tab
